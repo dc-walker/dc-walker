@@ -9,4 +9,4 @@ I am a first-year Ph.D. student at Zhejiang University.
 ## Contact
 
 📧 *Email:* [dcshi@zju.edu.cn](mailto:dcshi@zju.edu.cn)  
-📚 *Google Scholar:* [Duochao Shi's Google Scholar](https://scholar.google.com.hk/citations?user=BG-NXgoAAAAJ&hl=zh-CN)
+📚 *Google Scholar:* [Google Scholar](https://scholar.google.com.hk/citations?user=BG-NXgoAAAAJ&hl=zh-CN)
