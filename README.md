@@ -4,7 +4,9 @@
 
 I am a first-year Ph.D. student at Zhejiang University.
 
-🔍 My research focuses on **3D Computer Vision**, include *Reconstruction*, *Generation*, and *Scene Understanding*.
+🔍 My research interests lie in 3D Computer Vision, with a focus on scene reconstruction, scene understanding, and generative 3D representations.
+
+I am particularly interested in learning structured and dynamic world representations from visual observations, towards scalable 3D world models.
 
 ## Contact
 
